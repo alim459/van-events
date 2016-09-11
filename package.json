@@ -1,0 +1,12 @@
+{
+  "name": "van-events",
+  "version": "1.0.0",
+  "description": "vancouver event tracker",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "keywords": [],
+  "author": "ubc bcs cool kids",
+  "license": "ISC"
+}
